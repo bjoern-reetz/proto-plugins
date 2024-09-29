@@ -17,4 +17,15 @@ proto plugin add tofu "source:https://raw.githubusercontent.com/bjoern-reetz/pro
 proto install tofu
 ```
 
+### Ruff
+
+An extremely fast Python linter and code formatter, written in Rust.
+
+Install plugin and the latest binary with the following commands:
+
+```bash
+proto plugin add ruff "source:https://raw.githubusercontent.com/bjoern-reetz/proto-plugins/main/toml-plugins/ruff.toml"
+proto install ruff
+```
+
 Visit the [OpenTofu homepage](https://opentofu.org/) or the [OpenTofu repository](https://github.com/opentofu/opentofu) for details about OpenTofu.
