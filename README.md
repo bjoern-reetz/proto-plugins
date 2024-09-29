@@ -17,6 +17,8 @@ proto plugin add tofu "source:https://raw.githubusercontent.com/bjoern-reetz/pro
 proto install tofu
 ```
 
+Visit the [OpenTofu homepage](https://opentofu.org/) or the [OpenTofu repository](https://github.com/opentofu/opentofu) for details about OpenTofu.
+
 ### Ruff
 
 An extremely fast Python linter and code formatter, written in Rust.
@@ -28,4 +30,4 @@ proto plugin add ruff "source:https://raw.githubusercontent.com/bjoern-reetz/pro
 proto install ruff
 ```
 
-Visit the [OpenTofu homepage](https://opentofu.org/) or the [OpenTofu repository](https://github.com/opentofu/opentofu) for details about OpenTofu.
+Visit the [Ruff homepage](https://docs.astral.sh/ruff/) or the [Ruff repository](https://github.com/astral-sh/ruff) for details about Ruff.
